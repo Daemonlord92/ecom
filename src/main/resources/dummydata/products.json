@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Smartphone",
+    "description": "High-performance device with a multi-touch screen and high-quality camera.",
+    "price": 699.99
+  },
+  {
+    "id": "2",
+    "name": "Laptop",
+    "description": "Portable computer with a 15-inch screen and powerful processing capabilities.",
+    "price": 1200.50
+  },
+  {
+    "id": "3",
+    "name": "Electric Kettle",
+    "description": "1.5L electric kettle with fast boiling feature and stainless steel body.",
+    "price": 45.75
+  },
+  {
+    "id": "4",
+    "name": "Wireless Headphones",
+    "description": "Noise-cancelling headphones with up to 20 hours of battery life.",
+    "price": 159.49
+  },
+  {
+    "id": "5",
+    "name": "Espresso Machine",
+    "description": "Barista-grade espresso machine capable of making all coffee types.",
+    "price": 849.90
+  }
+]
